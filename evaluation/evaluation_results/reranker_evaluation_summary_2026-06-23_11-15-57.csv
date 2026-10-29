@@ -1,0 +1,4 @@
+chunk_size,chunk_overlap,retriever_k,reranker_n,context_precision,context_recall
+512,50,10,2,0.9999999999,1.0
+512,50,10,5,0.9999999999,1.0
+512,50,20,5,0.9999999999,1.0

@@ -1,0 +1,7 @@
+.env
+.envrc
+Data/
+notebooks/
+.local_storage/
+notebooks/
+evaluation/evaluation_embedding_models/

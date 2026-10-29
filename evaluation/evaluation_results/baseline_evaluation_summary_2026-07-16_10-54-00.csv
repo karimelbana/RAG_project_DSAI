@@ -1,0 +1,2 @@
+chunk_size,chunk_overlap,context_recall
+512,50,0.5
